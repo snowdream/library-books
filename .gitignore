@@ -1,0 +1,11 @@
+#ignore dirs
+bin
+.settings/
+
+#ignore files
+*.apk
+*~
+*.out
+*.o
+*.i
+*.s
